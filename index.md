@@ -35,7 +35,7 @@ Competitive Intelligence Analyst |**American General Life (AIG)** |Houston, TX| 
 </table> 
 
 ## Education
-Degree |Institution|Location| Dates 
+Degree |Institution |Location | Dates 
 ---- | ----- | ----- | ----- 
-MBA |Texas A&M University|College Station, TX| 2009 – 2011
-B.Sc (Neuroscience) |Brown University|Providence, RI| 2003 – 2006
+MBA |Texas A&M University |College Station, TX | 2009 – 2011
+B.Sc (Neuroscience) |Brown University |Providence, RI | 2003 – 2006
