@@ -15,26 +15,11 @@
 ## Experience
 
  <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
 </table> 
 
 Position |Company |Location| Dates | Focus Areas
 -------- | ----- | ----- | ----- | ---------------
-Data Science Analyst |**ConocoPhillips**|Houston, TX| 2019 – (Current) |<ul><li>Analysis and visualization of production processes </li><li>Cost reduction and normalization, root cause analysis, and schedule optimization</li><li>Building algorithms to automate flow assurance and preventative maintenance activities</li><li>Software Used: `Python`, `Spotfire`, `Teradata`</li></ul>
+Data Science Analyst |**ConocoPhillips**|Houston, TX| 2019 – (Current) |<b>- </b>Analysis and visualization of production processes <br><b>- </b>Cost reduction and normalization, root cause analysis, and schedule optimization<br><b>- </b>Building algorithms to automate flow assurance and preventative maintenance activities<br><b>- </b>Software Used: `Python`, `Spotfire`, `Teradata`
 Channel Marketing Analyst |**Shell Oil Products**|Houston, TX| 2018 – 2019 |<ul><li>Automation and enhancement of existing retail channel reporting </li><li>Integration of data from a variety of marketing resources to enable deep dive analysis and presentation of insights to internal and external stakeholders</li><li>Software Used: `Python`, `Tableau`, `Salesforce`</li></ul>
 Business Intelligence Specialist |**Apache Corporation**|Houston, TX| 2017 - 2018|<ul><li>Enabled analytical process to evaluate and improve drilling processes, including data audit, data wrangling and cleanup, data enhancement, and model building</li><li>Created, documented, and curated analytical dataset for analysis of completions data</li><li>Software Used: `Python`, `SAS Enterprise Guide`, `SAS Management Console`, `SAS DI Studio`, `SAS Enterprise Miner`, `Linux`, `Hadoop`, `OSISoft PI`, `Oracle`</li></ul>
 Data Scientist |**Optimal Strategix Group**|Houston, TX| 2016 - 2017|<ul><li>Led engagements in customer-centric marketing plan development and execution</li><li>Managed team of data scientists, predictive modelers, and software developers</li><li>Delivered multiple projects from inception to completion with varying levels of scope</li><li>Software Used: `R`, `Postgres`</li></ul>
