@@ -11,8 +11,8 @@
 <hr />
 
 ## Experience
-Position |Company |Location| Dates | Focus Areas
--------- | ----- | ----- | ----- | ---------------
+Position |Company |Location| Dates | Focus Areas<br>
+-------- | ----- | ----- | ----- | ---------------<br>
 Data Science Analyst |**ConocoPhillips**|Houston, TX| 2019 – (Current) |<ul><li>Analysis and visualization of production processes </li><li>Cost reduction and normalization, root cause analysis, and schedule optimization</li><li>Building algorithms to automate flow assurance and preventative maintenance activities</li><li>Software Used: `Python`, `Spotfire`, `Teradata`</li></ul>
 Channel Marketing Analyst |**Shell Oil Products**|Houston, TX| 2018 – 2019 |<ul><li>Automation and enhancement of existing retail channel reporting </li><li>Integration of data from a variety of marketing resources to enable deep dive analysis and presentation of insights to internal and external stakeholders</li><li>Software Used: `Python`, `Tableau`, `Salesforce`</li></ul>
 Business Intelligence Specialist |**Apache Corporation**|Houston, TX| 2017 - 2018|<ul><li>Enabled analytical process to evaluate and improve drilling processes, including data audit, data wrangling and cleanup, data enhancement, and model building</li><li>Created, documented, and curated analytical dataset for analysis of completions data</li><li>Software Used: `Python`, `SAS Enterprise Guide`, `SAS Management Console`, `SAS DI Studio`, `SAS Enterprise Miner`, `Linux`, `Hadoop`, `OSISoft PI`, `Oracle`</li></ul>
