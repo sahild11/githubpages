@@ -10,7 +10,28 @@
 
 <hr />
 
+
+
 ## Experience
+
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
+
 Position |Company |Location| Dates | Focus Areas
 -------- | ----- | ----- | ----- | ---------------
 Data Science Analyst |**ConocoPhillips**|Houston, TX| 2019 – (Current) |<ul><li>Analysis and visualization of production processes </li><li>Cost reduction and normalization, root cause analysis, and schedule optimization</li><li>Building algorithms to automate flow assurance and preventative maintenance activities</li><li>Software Used: `Python`, `Spotfire`, `Teradata`</li></ul>
