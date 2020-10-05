@@ -60,5 +60,5 @@ Plotly.d3.json('https://raw.githubusercontent.com/plotly/datasets/master/3d-ribb
       zaxis: {title: 'OD'}
     }
   };
-  Plotly.newPlot('myDiv', data, layout);
+  Plotly.newPlot('demo', data, layout);
 });
