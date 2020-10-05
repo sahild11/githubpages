@@ -41,3 +41,7 @@ Degree |Institution |Location | Dates
 ---- | ----- | ----- | -----
 MBA |Texas A&M University |College Station, TX | 2009 – 2011
 B.Sc (Neuroscience) |Brown University |Providence, RI | 2003 – 2006
+
+
+## Basic JS
+[Date and Time](try1.html).
